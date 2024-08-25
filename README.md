@@ -4,6 +4,8 @@ Kicad-designed ESP32/ESP8266/ESP-01S breadboard expander PCB with built-in exter
 
 Orders were done with JLCPCB and the generated files for order is found under [jlcpcb/production_files/](jlcpcb/production_files/).
 
+This PCB was designed as my first project to understand the whole designing process as well as the JLCPCB ordering part. It has gone through 2 revisions to get it working properly.
+
 ![3D Model](images/3d_model.png)
 
 ## Specifications
